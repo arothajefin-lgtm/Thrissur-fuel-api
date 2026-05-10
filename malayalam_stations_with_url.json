@@ -1,0 +1,992 @@
+[
+  {
+    "name": "986malayalamradio",
+    "url": "https://stream.zeno.fm/512rbf1e3qzuv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "aaha-radio",
+    "url": "https://s2.radio.co/s3801784f1/listen",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "aahafmradio",
+    "url": "http://s2.radio.co/s3801784f1/listen",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "AIR Alappuzha",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 93,
+    "codec": "AAC"
+  },
+  {
+    "name": "AIR FM Rainbow Kochi",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+    "homepage": "https://prasarbharati.gov.in/homepage-air/",
+    "country": "India",
+    "state": "Kerala",
+    "tags": "",
+    "bitrate": 95,
+    "codec": "AAC"
+  },
+  {
+    "name": "Air Kochi FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/chunklist.m3u8",
+    "homepage": "https://kochifm.blogspot.com/",
+    "country": "India",
+    "state": "karala",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "UNKNOWN"
+  },
+  {
+    "name": "AIR Kochi FM Rainbow",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+    "homepage": "https://prasarbharati.gov.in/",
+    "country": "India",
+    "state": "Kerala",
+    "tags": "air,all india radio,india,kochi,malayalam",
+    "bitrate": 95,
+    "codec": "AAC"
+  },
+  {
+    "name": "AIR Kozhikode Real FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 129,
+    "codec": "AAC"
+  },
+  {
+    "name": "AIR Kozhikode Real FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
+    "homepage": "https://prasarbharati.gov.in/",
+    "country": "India",
+    "state": "kerala",
+    "tags": "air,all india radio,india,kozhikode,malayalam",
+    "bitrate": 129,
+    "codec": "AAC"
+  },
+  {
+    "name": "AIR Malayalam",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+    "homepage": "https://prasarbharati.gov.in/",
+    "country": "India",
+    "state": "Kerala",
+    "tags": "air,all india radio,india,malayalam",
+    "bitrate": 92,
+    "codec": "AAC"
+  },
+  {
+    "name": "airkannur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 119,
+    "codec": "AAC"
+  },
+  {
+    "name": "airkozhikodefm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 129,
+    "codec": "AAC"
+  },
+  {
+    "name": "airmalayalam",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 93,
+    "codec": "AAC"
+  },
+  {
+    "name": "Akashvani Kozhikode",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 129,
+    "codec": "AAC"
+  },
+  {
+    "name": "amenradio",
+    "url": "https://ice7.securenetsystems.net/AMENFM",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "ananthapurifm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 95,
+    "codec": "AAC"
+  },
+  {
+    "name": "Anbu FM Malayalam",
+    "url": "https://stream.zeno.fm/8ca40byv4x8uv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Annai FM",
+    "url": "http://stream.zeno.fm/ewuo8mhb9zyvv",
+    "homepage": "https://zeno.fm/radio/annai-fm/",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "tags": "malayalam,music,tamil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Aural melodics",
+    "url": "https://stream-159.zeno.fm/7fmywrmrga0uv",
+    "homepage": "https://www.auralradiokerala.com/",
+    "country": "India",
+    "state": "kerala",
+    "tags": "carnatic,indian classical",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "AURAL OLDIES",
+    "url": "http://stream.zeno.fm/anrf216cu68uv",
+    "homepage": "https://www.auralradiokerala.com/",
+    "country": "India",
+    "state": "",
+    "tags": "oldies",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "aural-oldies",
+    "url": "https://stream-158.zeno.fm/tksfwb1mgzzuv",
+    "homepage": "https://zeno.fm/radio/aural-oldies/",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "auralmelodics",
+    "url": "https://stream-159.zeno.fm/7fmywrmrga0uv",
+    "homepage": "https://zeno.fm/radio/auralmelodics/",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "auralmelodies",
+    "url": "https://stream.zeno.fm/7fmywrmrga0uv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "auralradio",
+    "url": "http://stream.zeno.fm/8ux50camqwzuv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "chitrahitsmalayalam",
+    "url": "http://stream.zeno.fm/dubvcz3rkrhvv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chmala",
+    "url": "https://stream-159.zeno.fm/dubvcz3rkrhvv?zs=aVDxKzveQw22WcHIuNRafQ",
+    "homepage": "https://stream-159.zeno.fm/dubvcz3rkrhvv?zs=aVDxKzveQw22WcHIuNRafQ",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "club fm",
+    "url": "https://strw3.openstream.co/1459?aw_0_1st.collectionid%3D4635%26stationId%3D4635%26publisherId%3D1483%26k%3D1769584850",
+    "homepage": "https://clubfm.in/",
+    "country": "India",
+    "state": "kerala",
+    "tags": "pop",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "DVN Radio",
+    "url": "https://ice31.securenetsystems.net/DVN",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "dvnradio",
+    "url": "https://ice31.securenetsystems.net/DVN",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "enteradio",
+    "url": "https://cast1.my-control-panel.com/proxy/enteradio/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 112,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM City 100.1",
+    "url": "https://stream-151.zeno.fm/4yfsm0d8n98uv?zs=vPZ4f9KeRxm234lLg5HvXw",
+    "homepage": "https://liveradios.in/fm-city-100-1.html",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "fm-city-100-1",
+    "url": "https://stream-158.zeno.fm/4yfsm0d8n98uv?zs=gkh46OMDR-6sribg1nE_Ow",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hallos Radio",
+    "url": "https://usa8.fastcast4u.com/proxy/auralradio?mp=/1",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hand Of Jesus - MALAYALAM",
+    "url": "https://dc1.serverse.com/proxy/hojmalayalam/stream",
+    "homepage": "https://handofjesus.in/radio/christian-radio-malayalam.php",
+    "country": "India",
+    "state": "",
+    "tags": "christian",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jesus Radio Malayalam",
+    "url": "https://gains.reviveradio.net/proxy/jesusreigns?mp=/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jesus Reigns Radio",
+    "url": "https://gains.reviveradio.net/proxy/jesusreigns?mp=/stream",
+    "homepage": "https://liveradios.in/jesus-radio.html",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kaathoram Live",
+    "url": "https://c30.radioboss.fm/stream/560",
+    "homepage": "https://kaathoramlive.com/",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kalabhavan Mani Radio",
+    "url": "https://stream.zeno.fm/s6hhy943w0hvv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kancheeravam Radio",
+    "url": "https://radiosavre.com:8020/radio.mp3",
+    "homepage": "https://liveradios.in/kancheeravam-radio.html",
+    "country": "India",
+    "state": "Kerala",
+    "tags": "jazz,malayalam,malayalam song,popular,vividhbharti",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KJ Yesudas Malayalam radio",
+    "url": "https://stream.zeno.fm/9x1sw687nf9uv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "kjyesudas",
+    "url": "https://stream.zeno.fm/9x1sw687nf9uv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "kochifm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 95,
+    "codec": "AAC"
+  },
+  {
+    "name": "Live FM",
+    "url": "https://stream.aiir.com/dbv0rxpwp6ytv",
+    "homepage": "https://www.livefm.bh/",
+    "country": "Bahrain",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "lmrradio",
+    "url": "https://ais-edge51-live365-dal02.cdnstream.com/a50671",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "London Malayalam Radio",
+    "url": "https://ais-edge105-live365-dal02.cdnstream.com/a50671",
+    "homepage": "http://www.lmrradio.co.uk/",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Luminous Radio",
+    "url": "http://192.111.140.6:8546/stream",
+    "homepage": "http://www.luminousradio.com/",
+    "country": "India",
+    "state": "kerala",
+    "tags": "catholic,christian,luminous radio,malayalam",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "luminous-radio",
+    "url": "https://patmos.cdnstream.com/proxy/luminous/?mp=/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "luminousradiomalayalam",
+    "url": "https://node-01.zeno.fm/1a8r3ugrn7zuv?rj-ttl=5&rj-tok=AAABc60Whb8A20ig1x3DtwIVoA",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "mala90",
+    "url": "https://stream.zeno.fm/gm3g9amzm0hvv",
+    "homepage": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FRxXUk1w0B6G7em1QYiuGMhAna1R8I-gNM2sl8xfdp5s%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJczl6WXBBb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJMWM2VG9Rb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjExMjUzODQwMDA.webp&w=1920&q=100",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "malayalambhakthiradio",
+    "url": "https://stream.zeno.fm/08e1vkshcc9uv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "malayalammusic",
+    "url": "https://stream.zeno.fm/g8cx7tggb3quv.aac",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "malever",
+    "url": "https://stream-158.zeno.fm/5u6gkp9sp0hvv",
+    "homepage": "https://zeno.fm/radio/malever/",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "malysadan",
+    "url": "https://stream-153.zeno.fm/8g9nvr1rkrhvv?zs=96ocfKngQau54X0QIaJgkA",
+    "homepage": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FdINqs5eR8Epm-G7rbOFKmqv-bOY5L1NCkC_TUWRZ8Y0%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJczl6WXBBb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJaTY3NHhna01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE5ODgyNTEwMDA.webp&w=1920&q=100",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "marymatharadio",
+    "url": "https://stream.zeno.fm/g5ay9q4dgrruv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mohanlal hits",
+    "url": "https://stream.zeno.fm/5vva7u4ts0quv",
+    "homepage": "https://radiosindia.com/mohanlalhits.html",
+    "country": "India",
+    "state": "kerala",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "mohanlalhits",
+    "url": "http://stream.zeno.fm/5vva7u4ts0quv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "N Radio Live",
+    "url": "https://stream.zeno.fm/4yfsm0d8n98uv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Peace Radio",
+    "url": "https://peaceradio.out.airtime.pro/peaceradio_a",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "PeaceRadio",
+    "url": "http://stream.peaceradio.com:8000/high",
+    "homepage": "http://peaceradio.com:8000/",
+    "country": "India",
+    "state": "Kerala",
+    "tags": "islamic",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "peaceradio",
+    "url": "https://peaceradio.out.airtime.pro/peaceradio_a",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "PeaceRadio Quran",
+    "url": "http://stream.peaceradio.com:8000/quran/high",
+    "homepage": "http://peaceradio.com/",
+    "country": "India",
+    "state": "Kerala",
+    "tags": "",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Planet black",
+    "url": "http://mp3.planetradio.de/plrchannels/hqblackbeats.aac",
+    "homepage": "http://mp3.planetradio.de/plrchannels/hqblackbeats.aac",
+    "country": "American Samoa",
+    "state": "",
+    "tags": "jnnynny",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "pranayamradio",
+    "url": "https://stream.zeno.fm/g2zves9gdwzuv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "psalmsradio",
+    "url": "https://s2.citrus3.com:8046/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 256,
+    "codec": "AAC"
+  },
+  {
+    "name": "Raagam AIR 24*7",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
+    "homepage": "https://newsonair.com/live/",
+    "country": "India",
+    "state": "National",
+    "tags": "carnatic,hindustani",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Beat Malayalam",
+    "url": "http://live.exertion.in:8050/radio.mp3",
+    "homepage": "http://malayalam.radiobeat.in/",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Bhojpuriya",
+    "url": "http://streaming.softnep.net:8143/;stream.nsv&type=mp3&volume=60",
+    "homepage": "http://www.radiobhojpuriyafm.com/",
+    "country": "India",
+    "state": "",
+    "tags": "all india radio,indian music",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Digital Malayali",
+    "url": "https://radio.digitalmalayali.in/listen/stream/radio.mp3",
+    "homepage": "https://radio.digitalmalayali.in/",
+    "country": "India",
+    "state": "kerala",
+    "tags": "bollywood,hindi,indian,kollywood,lo-fi,lofi,malayalam,mollywood,tamil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Keral",
+    "url": "https://ice31.securenetsystems.net/RADIOKERAL",
+    "homepage": "https://ice31.securenetsystems.net/RADIOKERAL",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Kochi",
+    "url": "https://d3caeelfr0kslf.cloudfront.net/radiokochi.m3u8",
+    "homepage": "https://www.radiokochi.com/",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "UNKNOWN"
+  },
+  {
+    "name": "Radio Malabar",
+    "url": "https://d98pmgd7by0qx.cloudfront.net/radiomalabar.m3u8",
+    "homepage": "https://www.radiomalabar.in/",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "UNKNOWN"
+  },
+  {
+    "name": "Radio Malayalam 98.6 FM",
+    "url": "https://stream.zeno.fm/512rbf1e3qzuv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mallu",
+    "url": "https://usa15.fastcast4u.com/proxy/radiomall/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Onattukara",
+    "url": "http://stream.zeno.fm/fu94u25kqd0uv/;stream.mp3",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Suno 91.7 FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC",
+    "homepage": "https://suno.qa/",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Suno Malayalam 91.7",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tirur",
+    "url": "https://sonic01.instainternet.com/8002/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Voxa",
+    "url": "https://stream.zeno.fm/zrfx7zy2wwzuv.aac",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio-mallu",
+    "url": "https://usa15.fastcast4u.com/proxy/radiomall/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radiokeralam",
+    "url": "https://ice31.securenetsystems.net/RADIOKERAL",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "radiomattoli",
+    "url": "https://cast1.my-control-panel.com/proxy/radiomattoli/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radiomediavillage",
+    "url": "https://443-1.autopo.st/183/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 320,
+    "codec": "OGG"
+  },
+  {
+    "name": "radiomythri",
+    "url": "https://stream.zeno.fm/ekthuu9bfwzuv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "radioonattukara",
+    "url": "https://stream.zeno.fm/fu94u25kqd0uv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "radiopalakkad",
+    "url": "https://stream.zeno.fm/qgqrxfte41zuv",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "radiosuno",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radiosunomalayalam",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radiotirur",
+    "url": "https://sonic01.instainternet.com/8002/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "radiovoxa",
+    "url": "https://stream.zeno.fm/zrfx7zy2wwzuv.aac",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "rafaradio",
+    "url": "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rainbow FM Kochi 107.5",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 95,
+    "codec": "AAC"
+  },
+  {
+    "name": "Recast FM",
+    "url": "https://usa8.fastcast4u.com/proxy/auralradio?mp=/1/;stream.mp3",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "recastfm",
+    "url": "https://usa8.fastcast4u.com/proxy/auralradio?mp=/1/;stream.mp3",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "retro ma",
+    "url": "https://stream-154.zeno.fm/b6augfmdanzuv",
+    "homepage": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FBxkMItZOmiWWa9tFj8eqFCi1tPj-uOEejXm7LIt1jSk%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnMG9qdzJBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURndmRIMTlBZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE0NTU2OTEwMDA.webp&w=1920&q=100",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "reviveradiomalayalam",
+    "url": "https://gains.reviveradio.net/proxy/revivemalayalam?mp=/stream",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Southern Spice FM",
+    "url": "https://stream.zeno.fm/g8cx7tggb3quv.aac",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Swaranjali",
+    "url": "https://stream.zeno.fm/x7mve2vt01zuv",
+    "homepage": "https://zeno.fm/radio/swaranjali/",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vividh Bharati Thiruvananthapuram",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 95,
+    "codec": "AAC"
+  },
+  {
+    "name": "worldtoworldradio",
+    "url": "https://streaming.radio.co/s4f2cc35de/listen",
+    "homepage": "",
+    "country": "India",
+    "state": "",
+    "tags": "",
+    "bitrate": 128,
+    "codec": "AAC"
+  }
+]
